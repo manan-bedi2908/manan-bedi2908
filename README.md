@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Manan 👋
 
 <!--
 **manan-bedi2908/manan-bedi2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
