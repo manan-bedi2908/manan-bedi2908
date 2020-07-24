@@ -2,6 +2,7 @@
 
 <!--
 **manan-bedi2908/manan-bedi2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manan-bedi2908&show_icons=true)
 ![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manan-bedi2908&show_icons=true&theme=tokyonight)
 Here are some ideas to get you started:
 
