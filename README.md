@@ -1,5 +1,5 @@
 ### Hi there, I am Manan 👋
-#### - 🌱 I’m currently learning Data Science and Cloud Computing
+#### - 🌱 I’m currently learning Data Science, Cloud Computing and Big Data
 #### - Also interested in Flutter, Augmented Reality and Internet of Things (Iot)
 
 ![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manan-bedi2908&show_icons=true&theme=tokyonight)
