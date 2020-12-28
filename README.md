@@ -15,7 +15,6 @@
 <br/> 
 </em>
 
-
 #### Programming Languages: Python, C, C++, Java
 #### Frameworks: Flask
 #### Databases: MySQL, SQLite3, MongoDB
