@@ -46,9 +46,3 @@
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" title="linux"></code>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-
-
-
-### Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manan-bedi-20a80a190/)](https://www.linkedin.com/in/manan-bedi-20a80a190/) [![Instagram Badge](https://img.shields.io/badge/-@kishan__07__25-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/manan.bedi2908/)](https://www.instagram.com/manan.bedi2908/) [![Twitter Badge](https://img.shields.io/badge/-@kishan0725-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bedi_manan)](https://twitter.com/bedi_manan) [![GitHub Badge](https://img.shields.io/badge/-@kishan0725-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/manan-bedi2908)](https://github.com/manan-bedi2908) [![Gmail Badge](https://img.shields.io/badge/-@kishanlal0725-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:mananbedilps@gmail.com)](mailto:mananbedilps@gmail.com)
