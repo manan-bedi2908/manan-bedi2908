@@ -1,20 +1,3 @@
-### Hi there, I am Manan 👋
-#### - 🌱 I’m currently learning Data Science, Cloud Computing and Big Data
-
-#### Programming Languages: Python, C, C++, Java
-#### Frameworks: Flask
-#### Databases: MySQL, SQLite3, MongoDB
-
-
-![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manan-bedi2908&show_icons=true&theme=tokyonight)
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=manan-bedi2908 alt=manan-bedi2908/></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manan-bedi2908)](https://github.com/manan-bedi2908/github-readme-stats)
-
-
-
-
 ## Hi there, I'm [Manan](https://manan-bedi2908.github.io/final-portfolio/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 
@@ -32,6 +15,11 @@
 <br/> 
 </em>
 
+
+#### Programming Languages: Python, C, C++, Java
+#### Frameworks: Flask
+#### Databases: MySQL, SQLite3, MongoDB
+
 ### Worked with 
 
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
@@ -44,5 +32,11 @@
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" title="linux"></code>
-
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+
+
+![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manan-bedi2908&show_icons=true&theme=tokyonight)
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=manan-bedi2908 alt=manan-bedi2908/></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manan-bedi2908)](https://github.com/manan-bedi2908/github-readme-stats)
