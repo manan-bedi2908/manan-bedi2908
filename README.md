@@ -12,5 +12,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manan-bedi2908)](https://github.com/manan-bedi2908/github-readme-stats)
 
-
-
