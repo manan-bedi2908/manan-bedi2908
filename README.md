@@ -1,6 +1,5 @@
 ### Hi there, I am Manan 👋
 #### - 🌱 I’m currently learning Data Science, Cloud Computing and Big Data
-#### - Also interested in DevOps tools like Docker, Kubernetes, Jenkins, Ansible
 
 #### Programming Languages: Python, C, C++, Java
 #### Frameworks: Flask
