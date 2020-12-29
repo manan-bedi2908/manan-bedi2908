@@ -8,7 +8,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m an AI/ML Developer Intern at ManKiBatt Industries Pvt. Ltd.
+- 👨🏽‍💻 I’m an AI/ML Developer Intern at ManKiBaat Industries Pvt. Ltd.
 - Mentor at Script Winter of Code (SWOC)
 - 🤔 My interests are in Data Science, Cloud Computing, Automation using DevOps, Cricket, etc..;
 - 📫 Please email via [E-Mail](mananbedilps@gmail.com) or ping me on [LinkedIn](https://www.linkedin.com/in/manan-bedi-20a80a190/) to reach me;
