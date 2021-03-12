@@ -8,7 +8,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m an AI/ML Developer Intern at ManKiBaat Industries Pvt. Ltd.
+- 👨🏽‍💻 Interned at ManKiBaat Industries Pvt. Ltd. as AI/ML Developer
 - Data Science Intern at AnalytixWare Technologies (Working on Flask and NLP Project)
 - Mentor at Script Winter of Code (SWOC)
 - 🤔 My interests are in Data Science, Cloud Computing, Automation using DevOps, Cricket, etc..;
