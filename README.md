@@ -8,7 +8,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Interned at ManKiBaat Industries Pvt. Ltd. as AI/ML Developer
+- 👨🏽‍💻 Interned at MBK Health Tech. Pvt. Ltd. as AI/ML Developer
 - Data Science Intern at AnalytixWare Technologies (Working on Flask and NLP Project)
 - Mentor at Script Winter of Code (SWOC)
 - Mentor at GirlScript Summer of Code (GSSoC)
