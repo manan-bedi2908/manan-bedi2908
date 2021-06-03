@@ -9,8 +9,6 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Interned at MBK Health Tech. Pvt. Ltd. as AI/ML Developer
-- AI Project Intern at iNeuron.ai
-- IT Consultant at MyMoMa
 - Data Science Intern at AnalytixWare Technologies (Working on Flask and NLP Project)
 - Data Analytics Intern at Virtue Veda Technologies, Canada
 - Mentor at Script Winter of Code (SWoC)
