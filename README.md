@@ -14,7 +14,7 @@
 - ML Collaborator at Omdena Pennsylvania (USA) and Omdena Malaysia
 - Mentor at Script Winter of Code (SWoC)
 - Mentor at GirlScript Summer of Code (GSSoC)
-- 🤔 My interests are in Data Science, Cloud Computing, Automation using DevOps, Cricket, etc..;
+- 🤔 My interests are in Data Science, Cloud Computing, Automation using DevOps, etc..;
 - 📫 Please email via [E-Mail](mailto:mananbedilps@gmail.com) or ping me on [LinkedIn](https://www.linkedin.com/in/manan-bedi-20a80a190/) to reach me;
 <br/> 
 </em>
