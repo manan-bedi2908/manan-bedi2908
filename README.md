@@ -7,10 +7,10 @@
 <em>
   
 **Talking about Personal Stuffs:**
+- Software Developer Intern at Socio Global Brands Inc., Canada
 - Data Science Content Writer at Let the Data Confess Pvt. Ltd.
 - 👨🏽‍💻 Interned at MBK Health Tech. Pvt. Ltd. as AI/ML Developer
 - Data Science Intern at AnalytixWare Technologies (Working on Flask and NLP Project)
-- Software Developer Intern at Socio Global Brands Inc., Canada
 - ML Collaborator at Omdena Pennsylvania (USA)
 - Mentor at Script Winter of Code (SWoC)
 - Mentor at GirlScript Summer of Code (GSSoC)
