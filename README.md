@@ -8,7 +8,7 @@
   
 **Talking about Personal Stuffs:**
 - Software Developer Intern at [Socio Global Brands Inc., Canada](https://www.edakshana.com/)
-- Data Science Content Writer at Let the Data Confess Pvt. Ltd.
+- Data Science Content Writer at [Let the Data Confess Pvt. Ltd.](https://www.letthedataconfess.com/)
 - 👨🏽‍💻 Interned at MBK Health Tech. Pvt. Ltd. as AI/ML Developer
 - Data Science Intern at AnalytixWare Technologies (Working on Flask and NLP Project)
 - ML Collaborator at Omdena Pennsylvania (USA)
