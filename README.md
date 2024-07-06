@@ -7,7 +7,7 @@
 <em>
   
 **Talking about Personal Stuffs:**
-- Business Analyst at [Paytm](https://paytm.com/)
+- Senior Business Analyst at [Paytm](https://paytm.com/)
 - Former Software Developer at [Socio Global Brands Inc., Canada](https://www.edakshana.com/)
 - Data Science Content Writer at [Let the Data Confess Pvt. Ltd.](https://www.letthedataconfess.com/)
 - 👨🏽‍💻 Interned at MBK Health Tech. Pvt. Ltd. as AI/ML Developer
