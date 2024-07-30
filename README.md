@@ -13,8 +13,10 @@
 - 👨🏽‍💻 Interned at MBK Health Tech. Pvt. Ltd. as AI/ML Developer
 - Data Science Intern at AnalytixWare Technologies (Working on Flask and NLP Project)
 - ML Collaborator at Omdena Pennsylvania (USA)
+- Mentor at NASA International Space Apps Hackathon
 - Mentor at Script Winter of Code (SWoC)
 - Mentor at GirlScript Summer of Code (GSSoC)
+- Judged and Mentored Multiple Hackathons including Hack the Mountains, Hack the North, Hack this Fall, HackCBS, etc.
 - 🤔 My interests are in Data Science, Cloud Computing, Automation using DevOps, etc..;
 - 📫 Please email via [E-Mail](mailto:mananbedilps@gmail.com) or ping me on [LinkedIn](https://www.linkedin.com/in/manan-bedi-20a80a190/) to reach me;
 <br/> 
